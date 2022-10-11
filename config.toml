@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://takatoshiinaoka.github.io/slides/"
+publishDir = "docs"
 languageCode = "ja_JP"
 title = "スライド用デモ・サイト"
 theme = "reveal-hugo"
